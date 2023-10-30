@@ -1,4 +1,4 @@
-# Blockchain Group Project README
+# Blockchain project TaskHarbor Review 2 Progress file
 
 <kbd><img src="logo.jpg" alt="Image Description" width="100" height="100"></kbd>
 
