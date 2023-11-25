@@ -403,3 +403,19 @@ contract Todo {
 
 - Discussed how the novel approach of integrating blockchain technology into task management in TaskHarbor could have broader implications for similar systems in different domains.
 - Considered the potential impact on data security and transparency in various applications beyond task management.
+
+# Conclusion
+
+In conclusion, TaskHarbor stands as a pioneering solution in the realm of task management...
+
+# References
+
+- DappUniversity - How to Build a Blockchain App
+- Flexmind - To-Do List Using Ethereum
+- Medium - Building a ToDo Application in React and Solidity
+- Ethereum - Smart Contracts
+- 101Blockchains - How to Build a Blockchain App
+- Klient - Problems with To-Do Lists and Project Management Software
+- Crypticera - Building a To-Do List App on Ethereum Blockchain
+- Medium - Building a ToDo App on a Blockchain using React and Hooks
+
