@@ -214,3 +214,25 @@ The project is progressing according to the defined milestones, with team member
 5. *Event Planning and Coordination:*
    - The application's versatility makes it suitable for event planning and coordination.
    - Users can seamlessly manage tasks related to event organization, such as scheduling, vendor coordination, and logistics, with the added benefits of blockchain security and transparency.
+
+## Novelty of the Proposed Work:
+
+The proposed project, TaskHarbor, introduces a novel approach to task management by integrating blockchain technology into its core functionality. This blockchain integration adds a layer of security, transparency, and trust to the traditional task management system. Here are the key novel aspects of TaskHarbor:
+
+1. *Blockchain Data Security:*
+   - Unlike traditional task management systems that store data on centralized servers, TaskHarbor leverages blockchain for secure data storage.
+   - The decentralized nature of blockchain ensures that task-related information is stored in a tamper-proof and secure manner.
+
+2. *Decentralized Task Tracking:*
+   - TaskHarbor takes advantage of the decentralized nature of blockchain, giving users greater control and privacy over their task data.
+   - By eliminating a central authority, users can have confidence in the integrity and security of their information.
+
+3. *Immutable Task Records:*
+   - The immutability of blockchain records in TaskHarbor means that once a task is created or updated, the information is permanently recorded on the blockchain.
+   - This creates a transparent and auditable history of all task-related activities, enhancing accountability and traceability.
+
+4. *Smart Contract Integration:*
+   - The use of smart contracts in TaskHarbor automates various task-related actions, such as task completion verification.
+   - This not only streamlines the task management process but also ensures trustless interactions, reducing the need for intermediaries and enhancing overall efficiency.
+
+By incorporating these blockchain features, TaskHarbor not only addresses common issues related to trust, accountability, and data security in traditional task management systems but also introduces a novel paradigm for task management. The application of blockchain technology to this well-studied problem provides a fresh perspective and sets TaskHarbor apart as a secure, transparent, and trustable task management solution.
