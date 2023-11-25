@@ -296,7 +296,7 @@ The rising importance of decentralized finance (DeFi) could also inspire the inc
 
 # Todo Smart Contract
 
-```solidity
+```solidity 
 pragma solidity ^0.8.9;
 
 contract Todo {
@@ -351,4 +351,6 @@ contract Todo {
     function deleteTask(uint _taskId) checkId(_taskId) public {
         delete tasks[_taskId];
     }
-}```
+}
+```
+aa
