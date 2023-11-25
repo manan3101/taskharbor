@@ -9,6 +9,8 @@
 ## Faculty: 
 Manoov R
 
+[Video Link](https://vitacin-my.sharepoint.com/:v:/g/personal/manan_aggarwal2020_vitstudent_ac_in/ER3vsrz_qUdEnog2yk3QYyIBoyMkOjF7ONKN8uWw3ZuBsQ?e=2E3kiU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ## TABLE OF CONTENTS
 
 ### CHAPTER NO. | TITLE
