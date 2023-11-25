@@ -146,3 +146,49 @@ TaskHarbor is developed within the scope of blockchain technology, leveraging it
 6. *Wallet Integration:*
    - TaskHarbor offers seamless integration with MetaMask.
    - Allowing you to monitor recent Ethereum transactions and check your Ethereum balance without leaving the application.
+
+## Progress Report
+
+### Milestone 1 (Planning and Setup)
+
+*Progress Report:*
+
+- *Project topic and problem statement defined:*
+  - In Milestone 1, the team collectively brainstormed and finalized the project topic as "TaskHarbor - Task Management Application."
+  - The problem statement was articulated, highlighting the inefficiencies in traditional task management systems and the need for improved transparency, trust, and data security.
+
+- *Team roles and responsibilities assigned:*
+  - During this phase, team members were assigned specific roles and responsibilities:
+    - Arpit and Vishal took on the role of Front-End Development.
+    - Manan was designated as the Blockchain Technology lead.
+    - Manish assumed the role of Back-End Development.
+
+- *Tools and software selected:*
+  - The team carefully evaluated and selected the necessary tools and software for the project, ensuring compatibility and efficiency.
+  - These tools include Remix IDE, MetaMask, Ganache, React, Solidity, Node.js, Express.js, and Postman.
+
+- *Initial project repository and README created:*
+  - The project repository was established on a version control platform.
+  - The README document was created to outline the project's purpose, components, and initial setup.
+
+### Milestone 2 (Development Kickoff)
+
+*Progress Report:*
+
+- *Front-end development in progress:*
+  - Arpit and Vishal began the development of the front-end interface using React, HTML, Bootstrap, and JavaScript.
+  - They focused on creating a user-friendly and responsive design to ensure a seamless user experience.
+
+- *Back-end server setup initiated:*
+  - Manish initiated the setup of the back-end server using Node.js and Express.js.
+  - This laid the foundation for the server-side components that will enable the core functionality of TaskHarbor.
+
+- *Smart contract development and testing started:*
+  - Manan started developing smart contracts in Solidity.
+  - Initial testing of smart contracts began to ensure their secure and efficient execution.
+
+- *Integration planning underway:*
+  - The team started planning the integration of the front-end, back-end, and blockchain components.
+  - This planning phase is crucial to ensure that all parts of TaskHarbor will work seamlessly together to deliver a robust task management application.
+
+The project is progressing according to the defined milestones, with team members actively contributing to their respective areas of expertise. The foundations for both the front-end and back-end development are being laid, and the blockchain integration is in its early stages. The project is on track for further development and testing.
