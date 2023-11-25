@@ -352,7 +352,8 @@ contract Todo {
         delete tasks[_taskId];
     }
 }
-```
+The whole code including React(frontend) , server and the solidity is present in the code folder of main branch.
+
 # Results & Discussions
 
 ## Results
