@@ -119,3 +119,30 @@ TaskHarbor is developed within the scope of blockchain technology, leveraging it
 *Manish:*
 - *Back-End Development:* Manish will lead the back-end development efforts, utilizing Node.js and Express.js to create a robust and efficient server for TaskHarbor.
 - *API Integration:* Manish will ensure seamless communication between the front-end and back-end components.
+
+### Key Features:
+
+1. *Create a Task:*
+   - The core functionality of TaskHarbor revolves around task creation.
+   - Quickly add new tasks, assign names, set deadlines, and include relevant notes to maintain meticulous organization.
+
+2. *Update a Task:*
+   - Easily modify task details, including descriptions, due dates, and priority levels.
+   - Adapt to changing circumstances with flexibility and precision.
+
+3. *View the Task:*
+   - Access a clear and concise overview of all your tasks, including task names, due dates, and completion status.
+   - Stay informed and make informed decisions about your priorities.
+
+4. *Get Status of the Task:*
+   - The "Task Status" feature provides real-time insights into task progress.
+   - Helps you identify pending, in-progress, and completed tasks.
+   - Maintain a clear understanding of your project's status.
+
+5. *Delete a Task:*
+   - Streamline your task list by effortlessly removing tasks that are no longer relevant.
+   - Keep your workspace organized and clutter-free by eliminating completed tasks.
+
+6. *Wallet Integration:*
+   - TaskHarbor offers seamless integration with MetaMask.
+   - Allowing you to monitor recent Ethereum transactions and check your Ethereum balance without leaving the application.
