@@ -351,29 +351,4 @@ contract Todo {
     function deleteTask(uint _taskId) checkId(_taskId) public {
         delete tasks[_taskId];
     }
-}
-
-# Results & Discussions
-
-## Results
-
-### Blockchain Data Security Evaluation
-
-- Assessed the security of task-related data stored on the blockchain.
-- Highlighted instances of attempted unauthorized access or tampering.
-- Demonstrated how blockchain technology successfully prevented such incidents.
-
-### Decentralized Task Tracking
-
-- Discussed user feedback and experiences regarding the decentralized nature of task tracking.
-- Evaluated how the decentralized approach enhances user control and privacy compared to traditional centralized task management systems.
-
-### Immutable Task Records
-
-- Showcased the transparency and auditability of task-related activities.
-- Provided examples of how the immutability of blockchain records contributes to accountability and traceability in TaskHarbor.
-
-### Smart Contract Integration
-
-- Presented the efficiency gains and trustless interactions achieved through smart contract automation.
-- Discussed user experiences with automated task-related actions and how it contributes to a more streamlined task management process.
+}```
