@@ -100,7 +100,7 @@ TaskHarbor is developed within the scope of blockchain technology, leveraging it
    The summary would involve insights into the testing practices recommended in the surveyed literature, potential challenges encountered during the testing process, and how Ganache is utilized to streamline and facilitate smart contract testing. It may also touch upon the advantages of using Ganache as a testing tool, such as its convenience in providing a local blockchain environment for testing without the need for real network transactions.
 ## Project Breakdown:
 
-6. ## Project Breakdown:
+## Project Breakdown:
 
 ### Team Members and Responsibilities:
 
@@ -109,3 +109,9 @@ TaskHarbor is developed within the scope of blockchain technology, leveraging it
 - *Integration:* They will work closely with the backend and blockchain teams to integrate the front end seamlessly.
 - *Bug Fixes and Workflow:* They will test the project and address any bugs, optimize workflow processes, and refine the problem statement.
 - *Case Studies:* They will explore various scenarios for improvement and suggest enhancements for TaskHarbor's functionality.
+
+*Manan:*
+- *Blockchain Technology:* Manan will be dedicated to working with Ethereum blockchain technologies.
+- *Smart Contracts:* Manan will develop smart contracts in Solidity and test using Remix IDE to ensure the secure & efficient execution of TaskHarbor's blockchain interactions.
+- *Blockchain Integration:* Manan will ensure smooth integration by creating APIs and connectors to link traditional databases and software with blockchain networks.
+- *Wallet Development:* Manan will implement secure cryptocurrency wallets for users to store and manage their digital assets using MetaMask.
