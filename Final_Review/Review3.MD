@@ -236,3 +236,17 @@ The proposed project, TaskHarbor, introduces a novel approach to task management
    - This not only streamlines the task management process but also ensures trustless interactions, reducing the need for intermediaries and enhancing overall efficiency.
 
 By incorporating these blockchain features, TaskHarbor not only addresses common issues related to trust, accountability, and data security in traditional task management systems but also introduces a novel paradigm for task management. The application of blockchain technology to this well-studied problem provides a fresh perspective and sets TaskHarbor apart as a secure, transparent, and trustable task management solution.
+
+## Challenges and Limitations:
+
+1. *Blockchain Scalability:*
+   - *Challenge:* Blockchain platforms, particularly Ethereum, may face scalability issues leading to slower transaction processing times.
+   - *Limitation:* The scalability limitations could impact the real-time responsiveness of TaskHarbor, affecting user experience during peak usage periods.
+
+2. *User Adoption and Familiarity:*
+   - *Challenge:* Users may be unfamiliar with blockchain technology, potentially leading to resistance or hesitation in adopting TaskHarbor.
+   - *Limitation:* The success of TaskHarbor may hinge on users' willingness to understand and trust the blockchain integration.
+
+3. *Smart Contract Security:*
+   - *Challenge:* Writing secure smart contracts is crucial to prevent vulnerabilities and attacks.
+   - *Limitation:* Ensuring the security of smart contracts requires rigorous auditing and testing, as vulnerabilities could pose a risk to the integrity of task data and user information.
