@@ -98,8 +98,9 @@ TaskHarbor is developed within the scope of blockchain technology, leveraging it
    The literature survey explores the process of testing smart contracts using Ganache, a local blockchain emulator and development tool. The focus is on understanding and implementing testing methodologies for smart contracts within the Ethereum blockchain ecosystem. Ganache, as a tool, provides a controlled environment for testing smart contracts, offering features for ease of development and testing. The survey likely delves into various aspects of testing, including functionalities such as deploying contracts, interacting with them, and assessing their behavior under different conditions.
 
    The summary would involve insights into the testing practices recommended in the surveyed literature, potential challenges encountered during the testing process, and how Ganache is utilized to streamline and facilitate smart contract testing. It may also touch upon the advantages of using Ganache as a testing tool, such as its convenience in providing a local blockchain environment for testing without the need for real network transactions.
-## Project Breakdown:
-
+## Flow Chart:
+The flow chart is present in the main branch with the file name tech.png 
+The final output of the project is also present in the main branch with the file name output
 ## Project Breakdown:
 
 ### Team Members and Responsibilities:
@@ -292,7 +293,6 @@ The rising importance of decentralized finance (DeFi) could also inspire the inc
    - Run `npm init` inside the `server` folder to initialize a new Node.js project.
    - Create a file
 
-##Code:
 
 # Todo Smart Contract
 
