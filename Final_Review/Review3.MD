@@ -115,3 +115,7 @@ TaskHarbor is developed within the scope of blockchain technology, leveraging it
 - *Smart Contracts:* Manan will develop smart contracts in Solidity and test using Remix IDE to ensure the secure & efficient execution of TaskHarbor's blockchain interactions.
 - *Blockchain Integration:* Manan will ensure smooth integration by creating APIs and connectors to link traditional databases and software with blockchain networks.
 - *Wallet Development:* Manan will implement secure cryptocurrency wallets for users to store and manage their digital assets using MetaMask.
+
+*Manish:*
+- *Back-End Development:* Manish will lead the back-end development efforts, utilizing Node.js and Express.js to create a robust and efficient server for TaskHarbor.
+- *API Integration:* Manish will ensure seamless communication between the front-end and back-end components.
